@@ -16,3 +16,4 @@ As part of the API Integration and Data Visualization domain at CODTECH IT SOLUT
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/70198e6b-dd3f-45b7-9b27-490d0b9eb41a)
